@@ -11,5 +11,7 @@ If you need to update truffle to the latest version use:
 If you need to update Metamask just delete your Metamask extension and install it again.
 
 Token name: Masarah
+
 Token symbol: MAS
+
 Contract address (rinkeby): b4aec756b14349c181f23c72ce3355ea
